@@ -1,6 +1,6 @@
 # TTGO T-Beam Range tester
 
-Set one device to Sender, one to Receiver. Screen will show signal strength and numeric value of last packet received (value should always be in sync).
+Flash one device as Sender, one as Receiver. Screen will show signal strength and counter value of last packet received (value should always be in sync).
 
 If desired, add a piezo buzzer on pin2, which will beep when a packet is received (currently every 10s).
 
