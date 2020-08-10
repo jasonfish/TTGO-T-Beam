@@ -2,7 +2,7 @@
 
 Flash one device as Sender, one as Receiver. OLED screen will show signal strength and counter value of last packet received.
 
-If desired, add a piezo buzzer on pin2, which will beep when a packet is received, currently every 10s. Makes it much easier to notice when you've lost connection while driving.
+If desired, add a piezo buzzer on pin13, which will beep when a packet is received, currently every 10s. Makes it much easier to notice when you've lost connection while driving.
 
 Based on https://github.com/LilyGO/TTGO-T-Beam and https://www.youtube.com/watch?v=xrOo5SROzD8
 
