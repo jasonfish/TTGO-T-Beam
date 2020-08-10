@@ -50,7 +50,7 @@ void setup() {
   digitalWrite(16, LOW);    // set GPIO16 low to reset OLED
   delay(50); 
   digitalWrite(16, HIGH); // while OLED is running, must set GPIO16 in high、
-  EasyBuzzer.setPin(2);
+  EasyBuzzer.setPin(13);
     
   Serial.begin(115200);
   while (!Serial);
